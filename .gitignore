@@ -1,0 +1,4 @@
+notebooks/.ipynb_checkpoints/
+data/grns/ANANSE/*
+data/references/*txt*
+data/references/*csv*
