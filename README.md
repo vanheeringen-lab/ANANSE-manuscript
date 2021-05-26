@@ -1,6 +1,6 @@
 # ANANSE-manuscript
 
-Notebook files describing analyses in the ANANSE paper (Qu et al. 2021)
+Notebook files describing analyses in the ANANSE paper (Xu et al. 2021)
 
 * model_training.ipynb - overview of training of binding prediction model
 * download_and_benchmark_grns.ipynb - GRN benchmarking using different references
