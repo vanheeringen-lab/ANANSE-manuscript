@@ -1,4 +1,5 @@
 notebooks/.ipynb_checkpoints/
+notebooks/*.benchmark_grns.txt
 data/grns/ANANSE/*
 data/references/*txt*
 data/references/*csv*
